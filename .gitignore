@@ -1,5 +1,6 @@
 
 node_modules/
+insta-client/node_modules/
 # Created by https://www.gitignore.io/api/node,vuejs,linux
 # Edit at https://www.gitignore.io/?templates=node,vuejs,linux
 
